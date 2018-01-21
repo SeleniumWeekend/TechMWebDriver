@@ -1,0 +1,1 @@
+java -cp(class path) "path of the bin folder"; "path of the jar file folder"; org.testng.TestNG testng.xml
